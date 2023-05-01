@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Fizik",
+    "img": "assets/images/fizik2.png"
+  },
+  {
+    "title": "Biyoloji",
+    "img": "assets/images/biyoloji.png"
+  },
+  {
+    "title": "Kimya",
+    "img": "assets/images/kimya1.png"
+  },
+  {
+    "title": "Matematik",
+    "img": "assets/images/mat.png"
+  },
+  {
+    "title": "Coğrafya",
+    "img": "assets/images/cografya1.png"
+  },
+  {
+    "title": "İngilizce",
+    "img": "assets/images/ing.png"
+  },
+  {
+    "title": "Edebiyat",
+    "img": "assets/images/edebiy.png"
+  },
+  {
+    "title": "Tarih",
+    "img": "assets/images/tarih1.png"
+  }
+]
